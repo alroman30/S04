@@ -232,3 +232,4 @@ let users = `[
 		  ]`;
 		  
 		console.log(JSON.parse(users));
+		console.log(JSON.stringify(users))
